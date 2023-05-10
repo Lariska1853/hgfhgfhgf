@@ -1,7 +1,7 @@
 
-def print_hi(name):
+async def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name} павпавпавпавпавввввввв' +
+    await print(f'Hi, {name} павпавпавпавпавввввввв' +
           'gdfffffffffffffffddddddddddddddddddd'
           'dddddddddddddddddddd')  # Press Ctrl+F8 to toggle the breakpoint.
 
